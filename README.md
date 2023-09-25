@@ -11,4 +11,4 @@ This database contains 131 MSPs in total of bacteria that are isolated from huma
 ## Citation
 Please use the following citation if you use this database:
 
-Plomp N _et al._ A convenient and versatile culturomics platform to expand the human gut culturome of _Lachnospiraceae_ and _Oscillospiraceae_. 2023
+Plomp N, Liu L _et al._ A convenient and versatile culturomics platform to expand the human gut culturome of _Lachnospiraceae_ and _Oscillospiraceae_. 2023
