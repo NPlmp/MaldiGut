@@ -8,6 +8,8 @@ This database contains 132 MSPs in total of bacteria that are isolated from huma
 + 3 _Actinobacteria_ species.
 + 1 _Verrucomicrobia_ species.
 
++ The database is provided as .btmsp format, which is only compatible with Bruker Daltonics mass spectrometry software.
+
 ## Citation
 Please use the following citation if you use this database:
 
