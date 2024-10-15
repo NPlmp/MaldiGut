@@ -14,4 +14,9 @@ The database is provided as .btmsp format, which is only compatible with Bruker 
 ## Citation
 Please use the following citation if you use this database:
 
-Plomp N, _et al._ A convenient and versatile culturomics platform to expand the human gut culturome of _Lachnospiraceae_ and _Oscillospiraceae_. 2023
+Plomp N, et al. A convenient and versatile culturomics platform to expand the human gut culturome of Lachnospiraceae and Oscillospiraceae. Benef Microbes. 2024 Oct 9:1-16
+DOI: https://doi.org/10.1163/18762891-bja00042
+        
+        
+        
+        
